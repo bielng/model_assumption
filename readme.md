@@ -1,6 +1,6 @@
 #  Linear Regression Model Assumptions Check
 
-Welcome to the project documentation for the **Linear Regression Model Assumptions Check**. This project focuses on analyzing 💻 computer pricing data, building a regression model, and validating assumptions to ensure accurate and reliable predictions. 📈📉
+Welcome to the project documentation for the **Linear Regression Model Assumptions Check**. This project focuses on analyzing  computer pricing data, building a regression model, and validating assumptions to ensure accurate and reliable predictions.
 
 ---
 
